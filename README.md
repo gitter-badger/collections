@@ -1,5 +1,7 @@
 # Doctrine Collections
 
+[![Join the chat at https://gitter.im/gabrielbull/collections](https://badges.gitter.im/Join%20Chat.svg)](https://gitter.im/gabrielbull/collections?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge)
+
 Collections Abstraction library
 
 ## Changelog
